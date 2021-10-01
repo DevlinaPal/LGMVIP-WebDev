@@ -40,14 +40,8 @@ This project is focused on building an online portal of [STUDENT RESULT MANAGEME
   - Open Your browser link - “http://localhost/rms”
   - User name: admin
   - password: 1234
-  
-## 🤝 Contributing
-Comments and improvements are more than welcome!
 
-Feel free to fork and open a pull request.
->note: please open an issue before making pr as a good practice of open source.
-
-## 🙌 Show your support
+## Show your support
 
 Give a ⭐️ if you liked this work!
 
