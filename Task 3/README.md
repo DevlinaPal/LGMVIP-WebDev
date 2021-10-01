@@ -1,5 +1,5 @@
 # LGMVIP-TASK3
-<h1 align="center">Welcome to Result Management System 👋</h1>
+<h1 align="center">Welcome to Result Management System</h1>
 <br>
 
 <p>
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## ❓ What is this project about?
+## What is this project about?
 
 This project is focused on building an online portal of [STUDENT RESULT MANAGEMENT SYSTEM] directed to easier the management work of publishing results.
 
